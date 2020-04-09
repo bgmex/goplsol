@@ -1,3 +1,4 @@
+// echo5 prints its command line arguments and the corresponding indices
 package main
 
 import (
